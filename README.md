@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a business-minded software engineer with a specialization in web development. Most recently I served as an Architect at Disney Streaming, guiding the overarching technical vision, strategy, and execution for the teams building Disney+, Star+, and Hulu. I'm passionate about diversity in tech and growing empathetic, driven engineering teams. In my spare time, I enjoy traveling, exploring coffee shops, and spending time with my corgi, Arthur.
+
 <!--
 **alec-chernicki/alec-chernicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

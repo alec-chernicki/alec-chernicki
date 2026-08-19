@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a business-minded software engineer with over a decade of experience in JavaScript development. I currently work on the Shared Client Foundations team at Netflix, supporting the Netflix TV application. Previously I worked at Disney Streaming and helped scale the Disney+ web teams from launch to millions of subscribers. I'm passionate about diversity in tech and growing empathetic, driven engineering teams. In my spare time, I enjoy traveling, exploring coffee shops, and spending time with my corgi, Arthur.
+I'm a business-minded software engineer with over a decade of experience in JavaScript development. I currently work on the Member Experience Client Foundations team at Netflix, supporting the Netflix TV application. Previously, I worked at Disney Streaming and helped scale the Disney+ web teams from launch to millions of subscribers. I'm passionate about diversity in tech and growing empathetic, driven engineering teams. In my spare time, I enjoy traveling, exploring coffee shops, and spending time with my corgi, Arthur.
 
 I'm passionate about front-end tooling and building things that bring people together.
 

@@ -4,8 +4,6 @@ I'm a business-minded software engineer with over a decade of experience in Java
 
 I'm passionate about front-end tooling and building things that bring people together.
 
-Check out: [commonality.co](https://www.commonality.co/)
-
 <!--
 **alec-chernicki/alec-chernicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
